@@ -1,0 +1,7 @@
+Activate the virtual env:
+
+C:\Users\Nick\Envs\djangogirls>nntut\Scripts\activate
+
+Start the webserver:
+
+(nntut) ~/djangogirls$ python manage.py runserver
